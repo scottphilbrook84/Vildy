@@ -1,0 +1,145 @@
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Vildy.dll.config
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Vildy.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Vildy.pdb
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Antlr3.Runtime.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\EntityFramework.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\EntityFramework.SqlServer.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Newtonsoft.Json.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Owin.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.Helpers.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.Mvc.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.Optimization.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.Razor.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.WebPages.Deployment.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.WebPages.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.WebPages.Razor.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\WebGrease.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.Helpers.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.Mvc.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.Optimization.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.Razor.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.WebPages.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.WebPages.Deployment.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\System.Web.WebPages.Razor.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Newtonsoft.Json.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Antlr3.Runtime.pdb
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\EntityFramework.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\EntityFramework.SqlServer.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.dll
+c:\users\sphilbrook\documents\visual studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.pdb
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddUpdate.resources
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.csproj.GenerateResource.Cache
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddData.resources
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddMembershipTypes.resources
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddNamese.resources
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddForeignID.resources
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddMovieInformation.resources
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddMovieInformation1.resources
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddMovies.resources
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.Migrations.CorrectMovies.resources
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\obj\Debug\Vildy.csprojResolveAssemblyReference.cache
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\bin\System.Net.Http.Formatting.dll
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\bin\System.Web.Http.dll
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\bin\System.Web.Http.WebHost.dll
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\bin\System.Net.Http.Formatting.xml
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\bin\System.Web.Http.xml
+C:\Users\sphilbrook\Documents\Visual Studio 2013\Projects\Vildy\Vildy\bin\System.Web.Http.WebHost.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Vildy.dll.config
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Vildy.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Vildy.pdb
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Antlr3.Runtime.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\EntityFramework.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\EntityFramework.SqlServer.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Newtonsoft.Json.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Owin.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Net.Http.Formatting.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Helpers.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Http.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Http.WebHost.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Mvc.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Optimization.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Razor.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.WebPages.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.WebPages.Razor.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\WebGrease.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Net.Http.Formatting.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Http.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Http.WebHost.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Helpers.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Mvc.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Optimization.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.Razor.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.WebPages.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\System.Web.WebPages.Razor.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Newtonsoft.Json.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Antlr3.Runtime.pdb
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\EntityFramework.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\EntityFramework.SqlServer.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.csprojResolveAssemblyReference.cache
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddUpdate.resources
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddData.resources
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddMembershipTypes.resources
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddNamese.resources
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddForeignID.resources
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddMovieInformation.resources
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddMovieInformation1.resources
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddMovies.resources
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.Migrations.CorrectMovies.resources
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.csproj.GenerateResource.Cache
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.pdb
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\obj\Debug\Vildy.Migrations.AddingMovieGenres.resources
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\AutoMapper.dll
+C:\Users\sphilbrook\Downloads\Vildy-20161029T002813Z\Vildy\Vildy\bin\AutoMapper.xml
